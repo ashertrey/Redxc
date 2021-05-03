@@ -1,4 +1,9 @@
-<!DOCTYPE html><html><head>
+<?php 
+include​(​'functions.php'​) 
+?>//...
+<!DOCTYPE html>
+<html>
+<head>
 	<title>Registration system PHP and MySQL​</​title​>
 <link rel="stylesheet" href="style.css">
 ​</​head​>​
