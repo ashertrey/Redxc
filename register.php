@@ -9,7 +9,12 @@ include​(​'functions.php'​)
 ​</​head​>​
 <​body​>​
 <​div class="header">
-	<​h2​>​Register​</​h2​>​</​div​>​<​form method="post" action="register.php">
+	<​h2​>​Register​</​h2​>​
+</​div​>​
+<​form method="post" action="register.php">
+<?php 
+echo display_error(); 
+?>//...
 	<div class="input-group">
 		<​label​>​Username​</​label​>
 		<input type="text" name="username" value="">
