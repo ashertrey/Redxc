@@ -1,5 +1,9 @@
 <!DOCTYPE html><html><head>
-	<title>Registration system PHP and MySQL​</​title​>​</​head​>​<​body​>​<​div class="header">
+	<title>Registration system PHP and MySQL​</​title​>
+<link rel="stylesheet" href="style.css">
+​</​head​>​
+<​body​>​
+<​div class="header">
 	<​h2​>​Register​</​h2​>​</​div​>​<​form method="post" action="register.php">
 	<div class="input-group">
 		<​label​>​Username​</​label​>
@@ -22,4 +26,6 @@
 	</div>
 	<p>
 		Already a member? <a href="login.php">Sign in</a>
-	</​p​>​</​form​>​</​body​>​</​html​>
+	</​p​>​</​form​>
+​</​body​>​
+</​html​>
